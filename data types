@@ -1,14 +1,4 @@
 Main Types of Data
 
 • Quantitative Data: Numerical and measurable facts (e.g., age, height, temperature, or financial metrics).
-• Qualitative Data: Descriptive and non-numerical information (e.g., text, colors, names, or audio recordings).
-• Structured Data: Highly organized information formatted into neat rows and columns, such as relational databases or Microsoft Excel spreadsheets.
-• Unstructured Data: Free-form or multimedia data that lacks a predefined model, such as video files, images, or natural text.
-• Semi-Structured Data: Data containing organizational markers or tags like JSON or XML files.
-
-Key Uses and Importance
-
-• Decision-Making: Transforms raw observations into actionable business intelligence and operational strategies.
-• Artificial Intelligence: Serves as the foundational training material for machine learning models and generative AI systems.
-• Research and Science: Enables empirical testing, experimentation tracking, and predictive modeling across medicine, meteorology, and engineering.
-Would you like to explore data governance and protection, or look into how data is processed using ETL pipelines?
+• Quali
